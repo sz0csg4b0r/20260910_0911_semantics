@@ -1,0 +1,6 @@
+Minden formázás type selectorral megoldva, egyszerű type vagy kombinált... 
+
+Két class selectort állítottunk be html class attributumba: 
+class="termek-lista"
+class="ar"
+
