@@ -4,3 +4,6 @@ Két class selectort állítottunk be html class attributumba:
 class="termek-lista"
 class="ar"
 
+
+Ha kész vagy pushold fel a githubra (saját repodba!!!) 
+
